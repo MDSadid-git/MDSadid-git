@@ -16,7 +16,7 @@ To Purse a challenging career in a dynamic pharmaceutical company where the envi
 Feel free to contact me directly at slhsadid@gmail.com
 
 
-Skills:  HTML · CSS · JavaScript· Bootstrap· Tailwind CSS · React.js· Express.js · MongoDB
+Skills:  HTML5, CSS3, JavaScript, React, Node.js, Express.Js, MongoDb, Redux, Bootstrap, Tailwind
 
 - 🔭 I’m currently working on this page. 
 
